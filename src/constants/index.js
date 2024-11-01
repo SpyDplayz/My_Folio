@@ -1,7 +1,7 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import project1 from "../assets/projects/Rentiva.jpg";
+import project2 from "../assets/projects/DigiCourt.jpg";
+import project3 from "../assets/projects/portfolio_img.jpg";
+import project4 from "../assets/projects/pattern_analyzer.jpg";
 
 export const HERO_CONTENT = `I am an enthusiastic frontend developer with a passion for building engaging and user-friendly web applications. With a strong foundation in HTML, CSS, and JavaScript, and a growing familiarity with frameworks like React, I am eager to continue learning and expanding my skill set. My goal is to create visually appealing and responsive interfaces that enhance user experiences and contribute to successful projects.`;
 
