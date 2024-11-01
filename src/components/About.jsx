@@ -18,7 +18,7 @@ const About = () => {
                         <p className='my-2 max-w-xl py-6'>
                             {ABOUT_TEXT}
                         </p>
-                        <h1></h1>
+                        <h1>Hello Alay</h1>
                     </div>
                 </div>
         </div>
