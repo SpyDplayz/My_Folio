@@ -1,5 +1,5 @@
 import React from 'react'
-import logo1 from '../assets/kevinRushLogo.png';
+import logo1 from '../assets/projects/logo_11.jpg';
 import {FaLinkedin, FaTwitterSquare} from 'react-icons/fa'
 import {FaGithub} from 'react-icons/fa'
 import {FaSquareXTwitter} from 'react-icons/fa6'
@@ -10,7 +10,7 @@ const NavBar = () => {
   return (
     <nav className='mb-20 flex item-center justify-between py-6'>
         <div className='flex flex-shrink-0 items-center'>
-            <img className='mx-20 w-10' src={logo1} alt="logo" />
+            {/* <img className='mx-20 w-10' src={logo1} alt="logo" /> */}
         </div>
         <div className='m-1 mx-20  flex items-center justify-center gap-4 text-2xl'>
             <a href="https://in.linkedin.com/in/alay-gosai-40620120a"><FaLinkedin /></a>

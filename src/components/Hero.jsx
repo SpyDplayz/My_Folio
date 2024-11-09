@@ -30,6 +30,10 @@ const Hero = () => {
                     variants={container(0.5)}
                     initial="hidden"
                     animate="visible" 
+                    whileHover={{ scale: 1.2 }}
+                    onHoverStart={e => {}}
+                    onHoverEnd={e => {}}
+                    
                     className='bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-3xl tracking-tighter text-transparent underline'>Frontend Developer
                     </motion.span>
                     
