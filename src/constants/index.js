@@ -1,4 +1,4 @@
-import project1 from "../assets/projects/Rentiva.jpg";
+import project1 from "../assets/projects/rentiva.jpg";
 import project2 from "../assets/projects/DigiCourt.jpg";
 import project3 from "../assets/projects/portfolio_img.jpg";
 import project4 from "../assets/projects/pattern_analyzer.jpg";
