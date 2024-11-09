@@ -1,5 +1,5 @@
 import project1 from "../assets/rentiva.jpg";
-import project2 from "../assets/digiCourt.jpg";
+import project2 from "../assets/digicourt.jpg";
 import project3 from "../assets/portfolio_img.jpg";
 import project4 from "../assets/pattern_analyzer.jpg";
 
