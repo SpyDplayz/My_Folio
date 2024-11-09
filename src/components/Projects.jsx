@@ -20,10 +20,10 @@ const Project = () => {
                         transition={{duration:1}}
                         className="w-full lg:w-1/4">
                         <img src={project.image} 
-                            width={150} 
-                            height={150} 
+                            width={200} 
+                            height={100} 
                             alt={project.title} 
-                            className="mx-5 mb-6 rounded-lg"/>
+                            className="mx-auto mb-6 rounded-lg"/>
                         </motion.div>
 
                         <motion.div 
