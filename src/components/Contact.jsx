@@ -23,7 +23,7 @@ const Contact = () => {
                 whileInView={{opacity:1,y:0}}
                 initial={{opacity:0,y:-100}}
                 transition={{duration:1}}
-                href="mailto:spydplayz@gmail.com" type="email" className="border-b ">E - Mail
+                href="mailto:spydplayz@gmail.com" type="email" className="border-b ">E-Mail
                 </motion.a>
             </div>
         </div>
